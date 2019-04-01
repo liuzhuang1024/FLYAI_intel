@@ -1,0 +1,5 @@
+torch
+Pillow
+numpy
+flyai
+cv2
